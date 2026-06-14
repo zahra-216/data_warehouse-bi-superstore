@@ -1,0 +1,22 @@
+ 
+## Visual Studio build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+## Visual Studio temp / user files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results
+*.cache
+*.log
+*.tlog
+
+## OS junk
+Thumbs.db
+.DS_Store

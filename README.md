@@ -16,13 +16,13 @@ The project takes raw sales data and turns it into an analytics-ready solution:
 
 The warehouse is modelled as a star schema with a central fact table surrounded by dimension tables, using SCD Type 2 to preserve history.
 
-![Star Schema](docs/star-schema.png)
+![Star Schema](docs/star-schema.jpg)
 
 ## Power BI Dashboard
 
 Interactive dashboards built on the cube, supporting drill-down, drill-through, and cascading slicers for exploring sales performance.
 
-![Power BI Dashboard](docs/powerbi-dashboard.png)
+![Power BI Dashboard](docs/powerbi-dashboard.jpg)
 
 > For all other screenshots - the SSIS data flows, the SSAS cube structure, additional dashboard pages, and the full explanation of each stage, see the complete report in the **Document** folder.
 
